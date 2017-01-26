@@ -1,4 +1,4 @@
-package com.rakuten;
+package hello;
 
 import org.springframework.stereotype.Component;
 

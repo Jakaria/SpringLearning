@@ -1,4 +1,4 @@
-package com.rakuten;
+package hello;
 
 public class Book {
 
